@@ -56,7 +56,7 @@ To run the application on your computer, please follow the following command :
 
 1. Clone the repo
    ```sh
-   $ git clone https://github.com/qkohst/surat_management.git
+   $ git clone https://github.com/reyhannazera16/Manajemen-Surat.git
    ```
 2. Change directory in project which already clone
    ```sh
