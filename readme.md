@@ -84,7 +84,7 @@ To run the application on your computer, please follow the following command :
    ```sh
    $ php artisan key:generate
    ```
-8. Import ``manajemen_surat.sql``
+8. Import ``homestead.sql``
 9. Running project
     ```sh
     $ php artisan serve
